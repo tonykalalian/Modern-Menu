@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-    <!-- Home Page -->
     <url>
         <loc>https://fayroze-cafe.vercel.app/</loc>
         <lastmod>2024-01-27</lastmod>
@@ -9,7 +8,6 @@
         <priority>1.0</priority>
     </url>
 
-    <!-- About Page -->
     <url>
         <loc>https://fayroze-cafe.vercel.app/#about</loc>
         <lastmod>2024-01-27</lastmod>
@@ -17,7 +15,6 @@
         <priority>0.8</priority>
     </url>
 
-    <!-- Menu Page -->
     <url>
         <loc>https://fayroze-cafe.vercel.app/#menu</loc>
         <lastmod>2024-01-27</lastmod>
@@ -25,7 +22,6 @@
         <priority>0.8</priority>
     </url>
 
-    <!-- Review Page -->
     <url>
         <loc>https://fayroze-cafe.vercel.app/#review</loc>
         <lastmod>2024-01-27</lastmod>
@@ -33,7 +29,6 @@
         <priority>0.7</priority>
     </url>
 
-    <!-- Book Page -->
     <url>
         <loc>https://fayroze-cafe.vercel.app/#book</loc>
         <lastmod>2024-01-27</lastmod>
@@ -41,7 +36,6 @@
         <priority>0.7</priority>
     </url>
 
-    <!-- Pages with External Links -->
     <url>
         <loc>https://fayroze-cafe.vercel.app/pages/dubai.html</loc>
         <lastmod>2024-01-27</lastmod>
